@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/anti-heros/static/css/main.f1e87901.css",
-    "main.js": "/anti-heros/static/js/main.6af22aee.js",
+    "main.js": "/anti-heros/static/js/main.a1d8307a.js",
     "static/js/787.86ba38d4.chunk.js": "/anti-heros/static/js/787.86ba38d4.chunk.js",
     "index.html": "/anti-heros/index.html",
     "main.f1e87901.css.map": "/anti-heros/static/css/main.f1e87901.css.map",
-    "main.6af22aee.js.map": "/anti-heros/static/js/main.6af22aee.js.map",
+    "main.a1d8307a.js.map": "/anti-heros/static/js/main.a1d8307a.js.map",
     "787.86ba38d4.chunk.js.map": "/anti-heros/static/js/787.86ba38d4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f1e87901.css",
-    "static/js/main.6af22aee.js"
+    "static/js/main.a1d8307a.js"
   ]
 }
