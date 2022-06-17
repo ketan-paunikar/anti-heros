@@ -1,0 +1,74 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "a-bomb",
+            "speed": 17,
+            "power": 24,
+            "images": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/1-a-bomb.jpg"
+        },
+        {
+            "id": 2,
+            "name": "abe-sapien",
+            "speed": 20,
+            "power": 31,
+            "images": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/2-abe-sapien.jpg"
+        },
+        {
+            "id": 3,
+            "name": "abin-sur",
+            "speed": 13,
+            "power": 27,
+            "images": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/3-abin-sur.jpg"
+        },
+        {
+            "id": 4,
+            "name": "abomination",
+            "speed": 22,
+            "power": 48,
+            "images": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/4-abomination.jpg"
+        },
+        {
+            "id": 5,
+            "name": "abraxas",
+            "speed": 19,
+            "power": 26,
+            "images": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/5-abraxas.jpg"
+        },
+        {
+            "id": 6,
+            "name": "absorbing-man",
+            "speed": 22,
+            "power": 41,
+            "images": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/6-absorbing-man.jpg"
+        },
+        {
+            "id": 7,
+            "name": "adam-monroe",
+            "speed": 15,
+            "power": 27,
+            "images": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/7-adam-monroe.jpg"
+        },
+        {
+            "id": 8,
+            "name": "adam-strange",
+            "speed": 21,
+            "power": 28,
+            "images": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/8-adam-strange.jpg"
+        },
+        {
+            "id": 10,
+            "name": "agent-bob",
+            "speed": 14,
+            "power": 25,
+            "images": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/10-agent-bob.jpg"
+        },
+        {
+            "id": 11,
+            "name": "agent-zero",
+            "speed": 10,
+            "power": 21,
+            "images": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/11-agent-zero.jpg"
+        }
+    ]
+}
